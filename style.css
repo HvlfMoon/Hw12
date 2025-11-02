@@ -32,7 +32,8 @@ body{
 
 .flex{
   display:flex;
-  height: 100px;
+  /*height: 100px;8/
+  flex-direction: column;
 }
 
 .infl {
