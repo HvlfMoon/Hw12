@@ -53,17 +53,19 @@ body{
 .center {
   justify-content: center;
   align-items: center;
-  align-content: center;
+  align-content: space-between;
 }
 
 .around {
   justify-content: space-around;
   align-items: baseline;
+  align-content: space-around;
 }
 
 .between {
   justify-content: space-between;
-   align-items: stretch;
+  align-items: stretch;
+  align-content: stretch;
 }
 
 .side {
